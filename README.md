@@ -12,7 +12,7 @@ The repo contains lectures and jupyter notebooks for the training sessions in: D
 | 8 | Transfer Learning with RNNs/LSTMs | - | - |
 | 9 | Transformers | - | - |
 | 10 | Transformers | - | - |
-| 11 | Transformers - huggingface | - | - |
-| 12 | Transferlearning with Transformers | - | - |
+| 11 | Transfer Learning with Transformers | - | - |
+| 12 | Transformers - huggingface | - | - |
 | 13 | A use-case from the ground up | - | - |
 | 14 | A use-case from the ground up | - | - |
